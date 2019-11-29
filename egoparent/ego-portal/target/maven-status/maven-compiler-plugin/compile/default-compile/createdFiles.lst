@@ -1,0 +1,4 @@
+com\ego\portal\controller\Pagecontroller.class
+com\ego\portal\controller\TbContentController.class
+com\ego\portal\service\TbContentService.class
+com\ego\portal\service\impl\TbContentServiceImpl.class
